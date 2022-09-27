@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*consolidate header css once header defined in HTML*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*these CSS selectors should name an html element not a selector*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,6 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/*consolidate the benefits CSS*/
 
 .benefits {
     margin-right: 20px;
@@ -133,7 +134,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*consolidate search,online,social*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
